@@ -1,0 +1,13 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5443,
+      "driver": "PostgreSQL",
+      "name": "auto-whatsapp-1-connection",
+      "database": "auto-whatsapp-1-db",
+      "username": "auto-whatsapp-1"
+    }
+  ]
+}
